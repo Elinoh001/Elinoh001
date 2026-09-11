@@ -1,6 +1,6 @@
 👋 Hi, I'm Valery Elino
 
-💻 Fullstack Developer • Mobile Developer • Automation Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+Developer;Automation+Builder;React+%E2%80%A2+Node.js+%E2%80%A2+Flutter+%E2%80%A2+Python;Building+ELINO+OS...)](https://git.io/typing-svg)
 
 I'm a Computer Science student specializing in Software Engineering and Database Systems, building web apps, mobile apps, REST APIs, and automation workflows.
 
@@ -161,87 +161,6 @@ I'm currently looking for opportunities where I can:
 ## 📊 GitHub
 
 I use GitHub to share my projects, experiment with new technologies, and document my development journey.
-
----
-
-## 📫 Contact
-
-💼 Open to internships, freelance opportunities and software development projects.
-
-GitHub: [@Elinoh001](https://github.com/Elinoh001)
-
----
-
-💡 *Build. Learn. Improve. Repeat.*badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💸 Money Transfer Application
-Web application for managing online money transfers.
-
-**Stack:** Spring Boot • React • Tailwind CSS • PostgreSQL
-
----
-
-### 🏢 SallesPro
-Room reservation platform with different user roles and reservation management.
-
-**Stack:** React • Express.js • PostgreSQL • Prisma • Tailwind CSS
-
----
-
-### 📅 Room Reservation API
-Backend application for managing room reservations.
-
-**Stack:** Node.js • Express.js • PostgreSQL
-
----
-
-### 🏛️ PTA — CISCO Internship Project
-Web application developed during my internship.
-
-**Stack:** Python • Django • React
-
----
-
-### 🖥️ ELINO OS
-My personal developer portfolio designed as an interactive operating system interface.
-
-**Stack:** React • TypeScript • Tailwind CSS
-
-🌐 Portfolio: [elino-os.vercel.app](https://elino-os.vercel.app)
-
----
-
-## 📚 Currently Learning
-
-- JavaScript
-- Python
-- Flask
-- n8n
-- Automation
-- REST APIs
-- Software Architecture
-
----
-
-## 🎯 Goals
-
-I'm currently looking for opportunities where I can:
-
-- 🚀 Build real-world software products
-- 💻 Improve my fullstack development skills
-- 🔌 Work with APIs and automation
-- 🤝 Contribute to meaningful projects
-- 📈 Continue growing as a software developer
-
----
-
-## 📊 GitHub
-
-I use GitHub to share my projects, experiment with new technologies and document my development journey.
 
 ---
 
